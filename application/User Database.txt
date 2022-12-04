@@ -1,0 +1,3 @@
+Manush,Patel,1932
+Jan,Kasperski,4
+Linda,Thompson,0
